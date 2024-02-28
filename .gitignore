@@ -174,3 +174,9 @@ tags
 .ruff_cache
 
 wandb
+
+# Super Sampling Models
+/ss_models
+
+# Image Datasets
+/datasets
